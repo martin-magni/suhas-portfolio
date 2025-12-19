@@ -6,7 +6,7 @@ function Experience() {
       <h2>Professional Experience</h2>
       <div className="job-card">
         <h3>Supervisor – Market Research</h3>
-        <h4>Lead Research & Suites, Bangalore, IND | Freelancer</h4>
+        <h4>Lead, Bangalore, IND | Freelancer</h4>
         <ul>
           <li>Conducted high-volume direct client engagement calls to gather crucial market data, consistently meeting or exceeding daily quotas.</li>
           <li>Monitored and audited data quality from fellow colleagues, ensuring 95%+ accuracy and compliance with client specifications.</li>
